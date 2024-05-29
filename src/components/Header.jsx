@@ -1,7 +1,7 @@
 function Header() {
     return (
       <>
-        <nav className="flex justify-between items-center bg-[#111827] text-white py-4 px-12 sticky top-0">
+        <nav className=" z-10 flex justify-between items-center bg-[#111827] text-white py-4 px-12 sticky top-0">
           <div className="flex">
             <a href=""><img src=".\download.svg" className="pr-4"></img></a>
             <a href=""><h2 className="text-2xl font-bold">GeekFoods</h2></a>
